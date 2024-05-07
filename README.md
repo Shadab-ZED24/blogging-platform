@@ -8,7 +8,6 @@ Welcome to the Blogging Platform API! This API provides endpoints to manage blog
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Running the Application](#running-the-application)
-- [Running Unit Tests](#running-unit-tests)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
 - [License](#license)
