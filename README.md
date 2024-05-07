@@ -79,6 +79,3 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fi
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to customize the README file further based on your specific project details and requirements. Include additional sections or information as needed to provide comprehensive documentation for your application.
